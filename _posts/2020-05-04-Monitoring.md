@@ -2,8 +2,8 @@
 published: true
 ---
 ## Monitoring
-
 Monitoring can further be classified into various subtasks that we want to accomplish using it. Monitoring in simple terms can simply be defined as _**" Collecting data about the system and analysing it based on needs for alerting / performance and other needs"**_.
+
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C5612AQGwQQIN4BFt6w/article-cover_image-shrink_423_752/0?e=1598486400&v=beta&t=66y0ToHqkhzEHaetx-nUtXfSAZfHW4NN2krF-xgMAW0)
 
