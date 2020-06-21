@@ -12,4 +12,4 @@ I love watching movies and exploring the web for geek stuff, that's where most o
 
 ### Contact me
 
-**Email**: [vipulsharma](mailto:sharma.vips@gmail.com)
+**Email**: [vipulsharma](mailto:sharma.vips5512@gmail.com)
