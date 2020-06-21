@@ -5,7 +5,6 @@ published: true
 ---
 
 ## Exploring Zabbix
-
 The new world of distributed systems present a great sense of reliability and features that require every component of an enterprise to be maintained in a Highly Available ( HA ) Cluster so that the minimum downtime can be ensured. This Architecture of maintaining all components in HA cluster presents a difficult task to track down all components physical as well as software level so that any issues can be tracked down before any mishappening occurs.
 
 
