@@ -4,16 +4,12 @@ title: ZABBIX “ The Journey to Distributed System Monitoring ”
 published: true
 ---
 
-##Exploring Zabbix
+## Exploring Zabbix
 
 The new world of distributed systems present a great sense of reliability and features that require every component of an enterprise to be maintained in a Highly Available ( HA ) Cluster so that the minimum downtime can be ensured. This Architecture of maintaining all components in HA cluster presents a difficult task to track down all components physical as well as software level so that any issues can be tracked down before any mishappening occurs.
 
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C5112AQGGboM_IDMSmQ/article-inline_image-shrink_1000_1488/0?e=1598486400&v=beta&t=82R1VIW7p6xv631i7pW8rhz8YuPMsjpGNNLoSuOQgRs)
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C5112AQEJRwaQgGaqmA/article-inline_image-shrink_1000_1488/0?e=1598486400&v=beta&t=cNiFX3thejuhUsD8-NQ0pVafTnLaMdaWNvs2toe4sA0)
@@ -54,7 +50,6 @@ ZABBIX also provides with an API endpoint that can furthur be explored and get v
 
 Using ZABBIX one can achieve various results like Data Gathering, threshold values can be defined for various components like API response time and network response time etc and triggers can be set which provides flexible alert system for these components. Visualisation for data can be done in forms of graphs and charts. It also provides a web interface ( dashboard ) to monitor all such activities. It works using binary daemons written in C. So, It does not affect the performance of the system and is easily portable.
 
-Zabbix “ The Open Source Tool ” that opens door to various possibilities and features that you can use to ensure your system works with minimum downtime and also get visualisations of your performance matrices of the system.
+_Zabbix “ The Open Source Tool ” that opens door to various possibilities and features that you can use to ensure your system works with minimum downtime and also get visualisations of your performance matrices of the system._
 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
