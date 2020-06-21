@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Being a Devops Engineer most of my time goes into LINUX ( the soul of Devops ), 
+Also i like to explore tools from development perspective and extend their functionality.
+I love watching movies and exploring the web for geek stuff, that's where most of my time goes.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+**Email**: [vipulsharma](mailto:sharma.vips@gmail.com)
